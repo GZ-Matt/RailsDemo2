@@ -6,6 +6,7 @@ class TeachersController < ApplicationController
   def index
     @teachers = Teacher.all
     # test
+    # new branches
   end
 
   # GET /teachers/1
